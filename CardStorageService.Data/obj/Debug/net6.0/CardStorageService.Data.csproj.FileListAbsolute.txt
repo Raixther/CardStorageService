@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\bin\Debug\net6.0\CardStorageService.Data.deps.json
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\bin\Debug\net6.0\CardStorageService.Data.runtimeconfig.json
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\bin\Debug\net6.0\CardStorageService.Data.dll
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\bin\Debug\net6.0\CardStorageService.Data.pdb
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\CardStorageService.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\CardStorageService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\CardStorageService.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\CardStorageService.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\CardStorageService.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\CardStorageService.Data.dll
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\refint\CardStorageService.Data.dll
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\CardStorageService.Data.pdb
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\CardStorageService.Data.genruntimeconfig.cache
+C:\Users\user\source\repos\CardStorageService\CardStorageService.Data\obj\Debug\net6.0\ref\CardStorageService.Data.dll
